@@ -43,7 +43,7 @@ Some more usefull information and a progress bar to show you... Well, the progre
 * Due to a bad internet connection and/or a poorly available PTCGO server, the program might run faster than that the buttons on screen appear. Press the **Escape** key, to stop the redeeming at any time.
 * This application can not tell the difference between a valid or an invalid PTCGO code. With big batches, please ensure that at least one out of every 10 PTCGO code card is valid. If not, the application will not be able to continue with inserting codes.
 
-### Issues and future 
+# Issues and future functionality.
 Please submit any issue you have with the application in this repo. I'd be happy to fix them as soon as possible. 
 
 I'm also considering to create a tool that can convert the QR codes present on your display to the actual code automatically. This way you could make pictures of physical codes, open them on your desktop and automatically get a code list, which you can then paste in this application. If you would like for me to make such an application, please leave a thumbs up on [the following issue](https://github.com/Auriorx/pokemart-auto-redeemer/issues/1).
