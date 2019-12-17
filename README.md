@@ -1,7 +1,9 @@
 # Pokémart Auto Redeemer
-This package contains an application you can use to insert Pokémon Trading Card Game Online (PTCGO) codes automatically. 
+This package contains the source for an application you can use to insert Pokémon Trading Card Game Online (PTCGO) codes automatically. 
 
-Two versions of the application are included:
+The source requires Visual Studio 2019 Preview and .NET Core 3.1 to open/use.
+
+On the 'release' page I've provided you with versions of the application:
 * The 'self-contained' version. This version includes all the external prerequisites in order to run the application (in this case .NET Core 3.1).
 * The 'framework-dependent' version. This is the application only. Upon opening the application you will be prompted to install the prerequisites.
 
