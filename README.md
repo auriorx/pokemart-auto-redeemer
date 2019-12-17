@@ -42,7 +42,7 @@ Some more usefull information and a progress bar to show you... Well, the progre
 * If you only have one monitor, the application will hide itself while redeeming the PTCGO codes.
 * Due to a bad internet connection and/or a poorly available PTCGO server, the program might run faster than that the buttons on screen appear. Press the **Escape** key, to stop the redeeming at any time.
 * This application can not tell the difference between a valid or an invalid PTCGO code. With big batches, please ensure that at least one out of every 10 PTCGO code card is valid. If not, the application will not be able to continue with inserting codes.
-* Please understand that this is an application that simulates clicks on your screen. I am not responsible for wrong clicks on your PC.
+* Please understand that this is an application that simulates clicks on your screen. I am not responsible for wrong clicks on your screen.
 
 # Issues and future functionality.
 Please submit any issue you have with the application in this repo. I'd be happy to fix them as soon as possible. 
