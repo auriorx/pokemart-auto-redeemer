@@ -407,6 +407,7 @@ namespace PokeMartAutoRedeemer.Forms
                     Thread.Sleep(1000);
                     Global.SimulateClick(stepInfo.First(x => x.Key.Equals("clickOnSubmitCodesDoneButton")).Value.x + workingAreaX, stepInfo.First(x => x.Key.Equals("clickOnSubmitCodesDoneButton")).Value.y + workingAreaY);
                     Thread.Sleep(750);
+                    codeRedeemerCount = 0;
                 }
 
                 this.redeemProgress.PerformStep();
