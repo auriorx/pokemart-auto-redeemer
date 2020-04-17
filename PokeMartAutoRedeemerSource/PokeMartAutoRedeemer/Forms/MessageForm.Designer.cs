@@ -150,7 +150,7 @@
             // MessageForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit;
             this.ClientSize = new System.Drawing.Size(300, 156);
             this.Controls.Add(this.containerPanel);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;

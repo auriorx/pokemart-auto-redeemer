@@ -122,7 +122,7 @@
             // ImageForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit;
             this.ClientSize = new System.Drawing.Size(759, 800);
             this.Controls.Add(this.imageBox);
             this.Controls.Add(this.panel1);
