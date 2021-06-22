@@ -1,3 +1,5 @@
+*This application is no longer supported. A simpler version of the auto redeemer is available [here](https://github.com/auriorx/ptcgo-auto-redeemer-simple).*
+
 # Pokémart Auto Redeemer
 This package contains the source for an application you can use to insert Pokémon Trading Card Game Online (PTCGO) codes automatically. 
 
